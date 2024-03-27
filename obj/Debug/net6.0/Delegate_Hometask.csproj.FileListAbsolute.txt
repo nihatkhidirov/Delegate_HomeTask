@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Task\Delegate_Hometask\bin\Debug\net6.0\Delegate_Hometask.exe
+C:\Users\hp\Desktop\Task\Delegate_Hometask\bin\Debug\net6.0\Delegate_Hometask.deps.json
+C:\Users\hp\Desktop\Task\Delegate_Hometask\bin\Debug\net6.0\Delegate_Hometask.runtimeconfig.json
+C:\Users\hp\Desktop\Task\Delegate_Hometask\bin\Debug\net6.0\Delegate_Hometask.dll
+C:\Users\hp\Desktop\Task\Delegate_Hometask\bin\Debug\net6.0\Delegate_Hometask.pdb
+C:\Users\hp\Desktop\Task\Delegate_Hometask\obj\Debug\net6.0\Delegate_Hometask.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Task\Delegate_Hometask\obj\Debug\net6.0\Delegate_Hometask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Task\Delegate_Hometask\obj\Debug\net6.0\Delegate_Hometask.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Task\Delegate_Hometask\obj\Debug\net6.0\Delegate_Hometask.AssemblyInfo.cs
+C:\Users\hp\Desktop\Task\Delegate_Hometask\obj\Debug\net6.0\Delegate_Hometask.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Task\Delegate_Hometask\obj\Debug\net6.0\Delegate_Hometask.dll
+C:\Users\hp\Desktop\Task\Delegate_Hometask\obj\Debug\net6.0\refint\Delegate_Hometask.dll
+C:\Users\hp\Desktop\Task\Delegate_Hometask\obj\Debug\net6.0\Delegate_Hometask.pdb
+C:\Users\hp\Desktop\Task\Delegate_Hometask\obj\Debug\net6.0\Delegate_Hometask.genruntimeconfig.cache
+C:\Users\hp\Desktop\Task\Delegate_Hometask\obj\Debug\net6.0\ref\Delegate_Hometask.dll
